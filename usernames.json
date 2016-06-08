@@ -1,0 +1,6 @@
+{
+"scratchyone":
+{
+"css": "", "js": "document.querySelector('#profile-data > div.box-head > div > h2').innerHTML='Scratchyone';document.querySelector('#profile-box > div.inner.clearfix > div.user-content > div.player > h3').innerHTML='Cool Project'"
+}
+}
